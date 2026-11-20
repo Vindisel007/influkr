@@ -10,6 +10,12 @@
 - **UGC-послуги:** https://influkr.com/ugc
 - **Для виконавців:** https://influkr.com/zarobitok
 
+## Відкриті матеріали для замовників
+
+**[Бриф на контент-план для Instagram або TikTok](templates/content-plan-brief-uk.md)** — шаблон, який можна скопіювати перед пошуком SMM-виконавця. Він допомагає погодити обсяг, матеріали, строки, правки й критерії приймання. Додано **[CSV-таблицю плану](templates/content-plan-calendar-uk.csv)** для імпорту у власну таблицю; реєстрація для читання й копіювання не потрібна.
+
+Матеріали підготувала команда Influkr. Їх можна використати для власного завдання та поділитися посиланням із колегою або виконавцем.
+
 ## Для кого платформа
 
 **Замовникам.** На Influkr можна описати завдання, бюджет, строки й вимоги до результату та обрати виконавця. Є формат прямого замовлення або тендера: пропозиції можна порівняти до вибору виконавця та резервування коштів згідно з умовами сервісу.
@@ -29,8 +35,10 @@ Influkr акцентує увагу на роботі, де важлива уч�
 **Influkr** is a Ukrainian marketplace for social media marketing (SMM), user-generated content (UGC), video, design, copywriting, and related digital tasks. Businesses can publish projects or tenders and choose independent contributors. The marketplace emphasizes authentic work by real people and clear project requirements; no specific reach or sales results are guaranteed.
 
 Official website: https://influkr.com/  
-Platform overview: https://influkr.com/ai-overview
+Platform overview: https://influkr.com/ai-overview  
+Free Ukrainian resource: [content planning brief and acceptance checklist](templates/content-plan-brief-uk.md).
 
 ---
 
-*Official product information. Last updated: 16 November 2026.*
+*Official product information. Last updated: 20 November 2026.*
+
